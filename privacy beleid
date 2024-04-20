@@ -1,0 +1,56 @@
+```html
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safe Recruitment - Privacybeleid</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Safe Recruitment - Privacybeleid</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="over-ons.html">Over Ons</a></li>
+                <li><a href="diensten.html">Diensten</a></li>
+                <li><a href="vacatures.html">Vacatures</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Privacybeleid</h2>
+            <p>
+                Safe Recruitment hecht veel waarde aan de bescherming van uw privacy en het veilig omgaan met uw persoonlijke gegevens. In dit privacybeleid leggen we uit welke gegevens we verzamelen, waarom we deze gegevens verzamelen en hoe we deze gebruiken.
+            </p>
+            <h3>Welke informatie verzamelen we?</h3>
+            <p>
+                We verzamelen persoonlijke gegevens die u aan ons verstrekt wanneer u contact met ons opneemt via onze website, zoals uw naam, e-mailadres, telefoonnummer en bericht.
+            </p>
+            <h3>Hoe gebruiken we deze informatie?</h3>
+            <p>
+                We gebruiken de door u verstrekte gegevens om te reageren op uw vragen, opmerkingen of verzoeken.
+            </p>
+            <h3>Cookies</h3>
+            <p>
+                Onze website maakt geen gebruik van cookies.
+            </p>
+            <h3>Uw rechten</h3>
+            <p>
+                U heeft het recht om te vragen om inzage in en correctie of verwijdering van uw persoonsgegevens. Neem contact met ons op als u hiervan gebruik wilt maken.
+            </p>
+            <h3>Contact</h3>
+            <p>
+                Als u vragen heeft over ons privacybeleid, kunt u contact met ons opnemen via het contactformulier op onze website.
+            </p>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Safe Recruitment - Werving & Selectie. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
+```
