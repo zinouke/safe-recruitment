@@ -1,0 +1,54 @@
+```html
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safe Recruitment - Algemene Voorwaarden</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Safe Recruitment - Algemene Voorwaarden</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="over-ons.html">Over Ons</a></li>
+                <li><a href="diensten.html">Diensten</a></li>
+                <li><a href="vacatures.html">Vacatures</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="privacybeleid.html">Privacybeleid</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Algemene Voorwaarden</h2>
+            <h3>1. Toepasselijkheid</h3>
+            <p>
+                Deze algemene voorwaarden zijn van toepassing op alle overeenkomsten tussen Safe Recruitment en haar opdrachtgevers, tenzij hiervan uitdrukkelijk en schriftelijk is afgeweken.
+            </p>
+            <h3>2. Dienstverlening</h3>
+            <p>
+                Safe Recruitment zal de overeengekomen diensten naar beste inzicht en vermogen uitvoeren. Safe Recruitment kan echter niet garanderen dat alle voorgestelde kandidaten voldoen aan de verwachtingen van de opdrachtgever.
+            </p>
+            <h3>3. Betaling</h3>
+            <p>
+                Betaling dient te geschieden binnen 30 dagen na factuurdatum. Bij gebreke van tijdige betaling is de opdrachtgever in verzuim zonder dat een nadere ingebrekestelling is vereist. Safe Recruitment is gerechtigd om de wettelijke rente en buitengerechtelijke incassokosten in rekening te brengen.
+            </p>
+            <h3>4. Aansprakelijkheid</h3>
+            <p>
+                Safe Recruitment is niet aansprakelijk voor enige schade ontstaan bij de opdrachtgever, tenzij er sprake is van opzet of grove schuld aan de zijde van Safe Recruitment.
+            </p>
+            <h3>5. Geschillen</h3>
+            <p>
+                Op alle overeenkomsten tussen Safe Recruitment en haar opdrachtgevers is het Nederlands recht van toepassing. Alle geschillen zullen worden voorgelegd aan de bevoegde Nederlandse rechter.
+            </p>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Safe Recruitment - Werving & Selectie. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
+```
