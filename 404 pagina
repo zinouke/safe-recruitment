@@ -1,0 +1,38 @@
+```html
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Pagina Niet Gevonden</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>404 Pagina Niet Gevonden</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="over-ons.html">Over Ons</a></li>
+                <li><a href="diensten.html">Diensten</a></li>
+                <li><a href="vacatures.html">Vacatures</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="privacybeleid.html">Privacybeleid</a></li>
+                <li><a href="algemene-voorwaarden.html">Algemene Voorwaarden</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Oeps! Pagina niet gevonden.</h2>
+            <p>
+                De pagina die je probeerde te bereiken, bestaat niet of is verplaatst. Controleer de URL op eventuele fouten en probeer het opnieuw. Als je nog steeds problemen ondervindt, neem dan <a href="contact.html">contact</a> met ons op.
+            </p>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Safe Recruitment - Werving & Selectie. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
+```
