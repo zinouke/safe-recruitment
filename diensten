@@ -1,0 +1,65 @@
+```html
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diensten</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Diensten</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="over-ons.html">Over Ons</a></li>
+                <li><a href="diensten.html">Diensten</a></li>
+                <li><a href="vacatures.html">Vacatures</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="privacybeleid.html">Privacybeleid</a></li>
+                <li><a href="algemene-voorwaarden.html">Algemene Voorwaarden</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Onze Diensten</h2>
+            <div class="dienst">
+                <h3>Werving & Selectie</h3>
+                <p>
+                    Safe Recruitment helpt uw bedrijf bij het vinden van de beste kandidaten voor openstaande posities. Onze deskundige recruiters zoeken, screenen en selecteren kandidaten die perfect passen bij uw bedrijfscultuur en de eisen van de functie. Wij nemen het hele wervingsproces uit handen, van het plaatsen van vacatures tot het voeren van sollicitatiegesprekken.
+                </p>
+            </div>
+            <div class="dienst">
+                <h3>Headhunting</h3>
+                <p>
+                    Onze headhunters zijn gespecialiseerd in het identificeren en benaderen van getalenteerde professionals die niet actief op zoek zijn naar een nieuwe baan. Met ons uitgebreide netwerk en onze ervaring vinden we de juiste kandidaten voor uw bedrijf, zelfs als ze momenteel niet beschikbaar zijn op de arbeidsmarkt.
+                </p>
+            </div>
+            <div class="dienst">
+                <h3>CV Screening</h3>
+                <p>
+                    Wij bieden CV-screeningdiensten aan om ervoor te zorgen dat u de meest geschikte kandidaten voor uw bedrijf in dienst neemt. Ons team van deskundige recruiters screent CV's zorgvuldig om ervoor te zorgen dat de kandidaten voldoen aan de vereisten van de functie en passen bij de bedrijfscultuur. Met onze CV-screeningdiensten kunt u tijd en moeite besparen bij het selecteren van de beste kandidaten.
+                </p>
+            </div>
+            <div class="dienst">
+                <h3>Assessment Centers</h3>
+                <p>
+                    Safe Recruitment organiseert assessment centers om de vaardigheden, competenties en geschiktheid van kandidaten voor specifieke functies te evalueren. Door middel van gestandaardiseerde tests, groepsdiscussies en rollenspellen kunnen we de geschiktheid van kandidaten voor een bepaalde functie nauwkeurig beoordelen.
+                </p>
+            </div>
+            <div class="dienst">
+                <h3>Outplacement Services</h3>
+                <p>
+                    Als uw bedrijf mensen moet laten afvloeien, bieden wij outplacementdiensten aan om hen te helpen bij het vinden van een nieuwe baan. Onze loopbaancoaches bieden ondersteuning bij het solliciteren, het opstellen van een cv, interviewvaardigheden en netwerken, zodat uw medewerkers een soepele overgang kunnen maken naar een nieuwe baan.
+                </p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Safe Recruitment - Werving & Selectie. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
+```
