@@ -1,0 +1,58 @@
+```html
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vacature Details</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Vacature Details</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="over-ons.html">Over Ons</a></li>
+                <li><a href="diensten.html">Diensten</a></li>
+                <li><a href="vacatures.html">Vacatures</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="privacybeleid.html">Privacybeleid</a></li>
+                <li><a href="algemene-voorwaarden.html">Algemene Voorwaarden</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Vacaturenaam</h2>
+            <p>
+                <strong>Functie:</strong> [Functie]<br>
+                <strong>Locatie:</strong> [Locatie]<br>
+                <strong>Salaris:</strong> [Salaris]<br>
+                <strong>Publicatiedatum:</strong> [Publicatiedatum]
+            </p>
+            <h3>Beschrijving</h3>
+            <p>
+                Hier komt de beschrijving van de vacature.
+            </p>
+            <h3>Verantwoordelijkheden</h3>
+            <ul>
+                <li>Taak 1</li>
+                <li>Taak 2</li>
+                <li>Taak 3</li>
+            </ul>
+            <h3>Vereisten</h3>
+            <ul>
+                <li>Vereiste 1</li>
+                <li>Vereiste 2</li>
+                <li>Vereiste 3</li>
+            </ul>
+            <button onclick="window.history.back()">Terug naar Vacatures</button>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Safe Recruitment - Werving & Selectie. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
+```
